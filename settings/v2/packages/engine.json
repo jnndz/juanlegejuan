@@ -10,6 +10,7 @@
       },
       "gfx-webgl": {
         "_value": true
+        "_value": true        
       },
       "gfx-webgl2": {
         "_value": true
